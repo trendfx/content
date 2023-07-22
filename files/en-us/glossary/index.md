@@ -1,4 +1,4 @@
----
+TrendFxLive 
 title: "MDN Web Docs Glossary: Definitions of Web-related terms"
 short-title: MDN Web Docs Glossary
 slug: Glossary
